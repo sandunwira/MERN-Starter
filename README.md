@@ -8,5 +8,5 @@ A starter project for MERN (MongoDB, ExpressJS, ReactJS and NodeJS) stack
 ```
 MONGO_URI=<your_mongo_uri>
 ```
-4. Run `. backend.sh` to start the backend server. Backend server will run on: [http://localhost:5000](http://localhost:5000)
-5. Run `. frontend.sh` to start the frontend server. Frontend server will run on: [http://localhost:3000](http://localhost:3000)
+4. Run `. backend.sh` in Git Bash to start the backend server. Backend server will run on: [http://localhost:5000](http://localhost:5000)
+5. Run `. frontend.sh` in Git Bash to start the frontend server. Frontend server will run on: [http://localhost:3000](http://localhost:3000)
