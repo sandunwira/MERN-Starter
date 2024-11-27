@@ -1,3 +1,3 @@
+cd /usr/src/backend
 npm install
-cd backend
 npm run start

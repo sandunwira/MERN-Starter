@@ -1,4 +1,3 @@
-npm install
-cd frontend
+cd /usr/src/frontend
 npm install
 npm run start
